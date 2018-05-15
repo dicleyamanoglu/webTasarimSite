@@ -1,0 +1,277 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	width:100%;
+	height:50px;
+	background-color:#c7c7c7;
+	font-family:Agency FB;
+	font-size:21px;
+	
+}
+.header ul{
+	list-style-type:none;
+	font-family:Agency FB;
+	margin-left:250px;
+	margin-right:250px;
+	
+	
+}
+.header{
+	width:100%;
+	height:50px;
+	background-color:#000000;
+	
+}
+#menu1 li{
+	float:left;
+	padding-top:20px;
+	padding-right:75px;
+	font-size:25px;
+}
+#menu1 ul li a{
+	color:white;
+	text-decoration:none;
+}
+#menu1{
+	position:absolute;
+	left:-60px;
+}
+#menu2 li{
+	float:right;
+	padding-top:20px;
+	padding-left:75px;
+	font-size:25px;
+}
+
+#menu2 ul li a{
+	color:white;
+	text-decoration:none;
+}
+#menu2{
+	position:absolute;
+	right:0px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#logo{
+	position:absolute;
+	left:565px;
+	
+}
+#logo img{
+	width:55%;
+	height:auto;
+}
+
+#buton img{
+	width:3%;
+	height:auto;
+	position:absolute;
+	top:60px;
+	left:35px;
+}
+
+#buton h1{
+	font-size:35px;
+	font-family:Agency FB;
+	position:absolute;
+	top:60px;
+	left:75px;
+}
+#buton h1 a{
+	color:black;
+
+}
+
+#üyebutonu{
+	background-color:#28afc4;
+	width:125px;
+	height:45px;
+	position:absolute;
+	left:150px;
+	top:60px;
+	font-size:25px;
+	border-radius:5px;
+}
+
+#üyebutonu img{
+	width:30px;
+	height:auto;
+	top:10px;
+	position:absolute;
+}
+#üyebutonu h1{
+	font-size:35px;
+	position:absolute;
+	top:5px;
+	left:45px;
+}
+#üyebutonu h1 a{
+	color:black;
+
+}
+#arama{
+	position:absolute;
+	right:15px;
+	top:60px;
+}
+#arama input{
+	border:2px solid gray;
+	border-radius:5px;
+	background-color:#d2d5d5;
+}
+#arama button{
+	border-radius:5px;
+}
+
+
+#liste1{
+	left:25px;
+	font-size:25px;
+	position:absolute;
+}
+#liste1 li a{
+	color:black;
+
+}
+
+.nav{
+	left:15px;
+	width:10%;
+	height:430px;
+	top:150px;
+	background-color:#7d7d7d;
+	border:3px solid;
+	border-radius:5px;
+	position:absolute;
+	border-bottom-color:#9a8ba0;
+	border-right-color:#9a8ba0;
+}
+
+.filmler1 img{
+	width:55%;
+	height:auto;
+	position:absolute;
+	top:160px;
+	right:300px;
+}
+.filmler2 img{
+	width:55%;
+	height:auto;
+	position:absolute;
+	bottom:65px;
+	right:300px;
+}
+
+#birinciDiv{
+	float: left; 
+	width: 100px; 
+    height: auto;
+    left:15px;
+	position:absolute
+}
+#ikinciDiv{
+	float: left; 
+    width: 100px; 
+    height: auto;
+	left:200px;
+	position:absolute
+	
+}
+#ücüncüDiv{
+	float:right; 
+    width: 100px; 
+    height: auto;
+	left:435px;
+	position:absolute;
+}
+#dördüncüDiv{
+	float: left; 
+    width: 100px; 
+    height: auto;
+	font-size:20px;
+	position:absolute;
+	left:615px;
+}
+.filmAd{
+	position:absolute;
+	left:325px;
+	bottom:300px;
+}
+.filmAd a{
+	color:black;
+	text-decoration:none;
+}
+
+#birinciDiv1{
+	float:right;
+	width:100%;
+	height:auto;
+	position:absolute;
+	left:330px;
+}
+#ikinciDiv2{
+	float:right;
+	width:100%;
+	height:auto;
+	position:absolute;
+	left:530px;
+}
+#ücüncüDiv3{
+	float:right;
+	width:100%;
+	height:auto;
+	position:absolute;
+	left:750px;
+}
+#dördüncüDiv4{
+	float:right;
+	width:100%;
+	height:auto;
+	position:absolute;
+	left:940px;
+}
+.filmAd2{
+	position:absolute;
+	bottom:55px;
+	font-size:20px;
+}
+.filmAd2 a{
+	color:black;
+	text-decoration:none
+}
+
+
+#copyright{
+	position:absolute;
+	width:2%;
+	height:auto;
+	left:5px;
+	bottom:0px;
+}
+.footer h6{
+	position:absolute;
+	bottom:3px;
+	left:35px;
+}
+#facebook{
+	position:absolute;
+	width:3%;
+	height:auto;
+	right:60px;
+	bottom:0px;
+}
+#twitter{
+	position:absolute;
+	width:2.5%;
+	height:auto;
+	right:20px;
+	bottom:3px;
+}
+
